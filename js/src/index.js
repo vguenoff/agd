@@ -4,7 +4,9 @@
 // import array from './components/03_array';
 // import objects from './components/04_objects';
 // import creatingObjects from './components/05_creatingObjects';
-import configiringObjects from './components/06_configuringObjects';
+// import configuringObjects from './components/06_configuringObjects';
+import composition from './components/07_composition';
+import classAndInheritance from './components/08_classAndInheritance';
 
 import './sass/styles.scss';
 
@@ -13,4 +15,6 @@ import './sass/styles.scss';
 // array();
 // objects();
 // creatingObjects();
-configiringObjects();
+// configuringObjects();
+composition();
+classAndInheritance();

@@ -16,4 +16,5 @@ export default () => {
     fur: 'black',
   });
   cat.speak();
+  console.log(Object.keys(cat));
 };

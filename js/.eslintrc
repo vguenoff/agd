@@ -30,6 +30,7 @@
     ],
     "no-console": 0,
     "func-names": 0,
-    "no-mixed-operators": 1
+    "no-mixed-operators": 1,
+    "no-param-reassign": 0
   }
 }
