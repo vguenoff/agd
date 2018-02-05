@@ -5,8 +5,9 @@
 // import objects from './components/04_objects';
 // import creatingObjects from './components/05_creatingObjects';
 // import configuringObjects from './components/06_configuringObjects';
-import composition from './components/07_composition';
-import classAndInheritance from './components/08_classAndInheritance';
+// import composition from './components/07_composition';
+// import classAndInheritance from './components/08_classAndInheritance';
+import localStorage from './components/09_localStorage';
 
 import './sass/styles.scss';
 
@@ -16,5 +17,6 @@ import './sass/styles.scss';
 // objects();
 // creatingObjects();
 // configuringObjects();
-composition();
-classAndInheritance();
+// composition();
+// classAndInheritance();
+localStorage();
